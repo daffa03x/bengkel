@@ -40,15 +40,15 @@ require_once 'models/KategoriService.php'
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="public/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="public/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="public/vendors/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="public/vendors/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="public/vendors/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="public/css/style.css" rel="stylesheet">
-    <link href="public/css/styles.css" rel="stylesheet">
+    <link href="public/vendors/css/style.css" rel="stylesheet">
+    <link href="public/vendors/css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -80,16 +80,16 @@ require_once 'models/KategoriService.php'
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="public/lib/wow/wow.min.js"></script>
-    <script src="public/lib/easing/easing.min.js"></script>
-    <script src="public/lib/waypoints/waypoints.min.js"></script>
-    <script src="public/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="public/vendors/lib/wow/wow.min.js"></script>
+    <script src="public/vendors/lib/easing/easing.min.js"></script>
+    <script src="public/vendors/lib/waypoints/waypoints.min.js"></script>
+    <script src="public/vendors/lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="public/js/main.js"></script>
-    <script src="public/js/popper.min.js"></script>
-    <script src="public/js/script.js"></script>
-    <script src="public/js/jquery.js"></script>
+    <script src="public/vendors/js/main.js"></script>
+    <script src="public/vendors/js/popper.min.js"></script>
+    <script src="public/vendors/js/script.js"></script>
+    <script src="public/vendors/js/jquery.js"></script>
 </body>
 
 </html>
